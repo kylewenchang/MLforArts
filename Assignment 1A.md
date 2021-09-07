@@ -32,7 +32,7 @@ We lose privacy because the decisions made by the AI are based on our data and w
 ### Use the prompts below to help design an AI system.
 |     |     |
 ------------ | -------------
-What problem are you trying to address? | detect spam
+What problem are you trying to address? | xx
 How can AI help solve this issue? | xx
 What role will humans have in addressing this issue? | xx
 What data do you need to create an AI to help you address your issue? | xx
