@@ -32,8 +32,8 @@ We lose privacy because the decisions made by the AI are based on our data and w
 ### Use the prompts below to help design an AI system.
 |     |     |
 ------------ | -------------
-What problem are you trying to address? | xx
-How can AI help solve this issue? | xx
-What role will humans have in addressing this issue? | xx
-What data do you need to create an AI to help you address your issue? | xx
-How will you responsibly gather this data in a way that respects individuals' privacy and consent? | xx
+What problem are you trying to address? | messy desktop
+How can AI help solve this issue? | learn desktop organizing habits based on patterns and keep desktop organized
+What role will humans have in addressing this issue? | people's data on how they move files on their computer and patterns that emerge would be collected
+What data do you need to create an AI to help you address your issue? | file structure data for people's desktops before and after organization or over time
+How will you responsibly gather this data in a way that respects individuals' privacy and consent? | maybe only trace file movement but have the contents of the files themselves be ambiguous and have users opt in or have the learning algorithm run locally and only share ambiguous data that shows file movement patterns
