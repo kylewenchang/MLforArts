@@ -13,3 +13,5 @@ Originally, I just trained teachable machine on background noise (closed window)
 Ideally, I'd like to record a lot of audio with the windows open and windows closed and the audio of me just doing daily activities over it, but I assume training time would be horrible. It seemed to work pretty accurately, but would only really work in my room with my microphone with the provided data. I would also like to smooth out the display of different results, so the window state wouldn't flicker as much.
 
 Unfortunately, this morning, everything went awry (as things tend to). I was trying to screen record my project, but my laptop started dying when I recorded and eventually blue screened. This is the second iteration of this post, and the project in the video may be slightly different from code in the [p5js project](https://editor.p5js.org/kwc9225/sketches/LzPiRTKA5), but uses the same model and labels.
+
+[You can watch a demo video here!](www.youtube.com/watch?v=Je3RRDHszek)
