@@ -1,3 +1,7 @@
 ### Reflect on the relationship between labels and images in a machine learning image classification dataset? Who has the power to label images and how do those labels and machine learning models trained on them impact society?
 
 Because machine learning models are trained based on the provided images and labels, whatever data is provided is crucial to the eventual output of the model. Although effort has been put in to remove some of the more problematic outcomes of the training process, the fact that there is such a small group of people making these decisions could be a cause for concern, as the decisions they make will really only consider issues from their perspective and include their biases. I'm not sure if issues can be passed on through transfer learning, but if so, us using MobileNet/Teachable machine for our models might include the biases from those original datasets too.
+
+### Teachable Machine Project: Open Window, Closed Window
+
+This teachable machine project is a bit of a rehash of a [similar project I did in Creative Computing](https://itp.nyu.edu/classes/cc-f20-2/window-status/), that used your microphone to detect whether or not your window is open. I was kind of inspired by this article I saw that was talking about how, based on audio, it could be determined what you're typing. I wanted to try a smaller version of that which used audio to get the physical state of something. 
