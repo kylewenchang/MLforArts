@@ -4,4 +4,8 @@ Because machine learning models are trained based on the provided images and lab
 
 ### Teachable Machine Project: Open Window, Closed Window
 
-This teachable machine project is a bit of a rehash of a [similar project I did in Creative Computing](https://itp.nyu.edu/classes/cc-f20-2/window-status/), that used your microphone to detect whether or not your window is open. I was kind of inspired by this article I saw that was talking about how, based on audio, it could be determined what you're typing. I wanted to try a smaller version of that which used audio to get the physical state of something. 
+This teachable machine project is a bit of a rehash of a [similar project I did in Creative Computing](https://itp.nyu.edu/classes/cc-f20-2/window-status/), that used your microphone to detect whether or not your window is open. I was kind of inspired by this article I saw that was talking about how, based on audio, it could be determined what you're typing. I wanted to try a smaller version of that which used audio to get the physical state of something.
+
+Originally, I just trained teachable machine on background noise (closed window) and audio of the open window, but issues arose whenever I talked or walked around the room (any unexpected audio), so I added a label of the window closed with talking and the window open with talking. Ideally, I'd like to record a lot of audio with the windows open and windows closed and the audio of me just doing daily activities over it, but I assume training time would be horrible.
+
+Unfortunately, this morning, everything went wrong at once (as things tend to). I was trying to screen record my project, but my laptop started dying when I recorded 
