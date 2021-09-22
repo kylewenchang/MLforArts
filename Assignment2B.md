@@ -14,4 +14,4 @@ Ideally, I'd like to record a lot of audio with the windows open and windows clo
 
 Unfortunately, this morning, everything went awry (as things tend to). I was trying to screen record my project, but my laptop started dying when I recorded and eventually blue screened. This is the second iteration of this post, and the project in the video may be slightly different from code in the [p5js project](https://editor.p5js.org/kwc9225/sketches/LzPiRTKA5), but uses the same model and labels.
 
-[You can watch a demo video here!](www.youtube.com/watch?v=Je3RRDHszek)
+[You can watch a demo video here!](https://youtu.be/Je3RRDHszek)
