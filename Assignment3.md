@@ -22,4 +22,4 @@ Personally, my ideal scenario is one where the photo owners should have had to g
 
 #### How does understanding the provenance of the model and its data inform your creative process?
 
-I wasn't too concerned about where the data came from in my model in terms of privacy, but learning that PoseNet was trained on full body images will be helpful moving forward with drum hands.
+I wasn't too concerned about where the data came from in my model in terms of privacy, but learning that PoseNet was trained on full body images will be helpful moving forward with drum hands!
