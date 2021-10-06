@@ -1,3 +1,10 @@
-For assignment 4, I decided to improve upon the in-class HandPose example by making it plot all of the points on the hand. I was able to do this without having to address individual point using loops, but this was actually a lot more difficult than I expected because I never found a way to access the subarrays in the array that HandPose outputs by index (for example, having to use ```handPoints[0][0].annotations.thumb[j][0];``` rather than something like ```handPoints[0][0][0][0][j][0];```, which would have allowed me to access the coordinated of all the points with a loop rather than having to address each section individually.)
+## Assignment 4
+For assignment 4, I decided to improve upon the in-class HandPose example by making it plot all of the points on the hand. I was able to do this without having to address individual point using loops, but this was actually a lot more difficult than I expected because I never figured out a way to access the subarrays in the array that HandPose outputs by index (for example, having to use ```handPoints[0][0].annotations.thumb[j][0];``` rather than something like ```handPoints[0][0][0][0][j][0];```, which would have allowed me to access the coordinated of all the points with a loop rather than having to address each section individually.)
 
 ![Code going through fingers](https://i.imgur.com/ZubzV7L.png)
+
+Also, the current system is only set to display points, and if it could be done cleanly with all the values being taken from the arrray in nested loops, I would have liked to reorganize the X and Y points into another (probably global) array that would be easier to access data from.
+
+![Demo](https://i.imgur.com/cIeP8wI.gif)
+
+[You can view the code here!](https://editor.p5js.org/kwc9225/sketches/kzUZ-PKpb)
