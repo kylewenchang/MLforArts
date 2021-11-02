@@ -23,3 +23,13 @@ New Library Imports
 ![New Library Imports](https://i.imgur.com/SQCFlwC.png)
 
 After I got the example code working with the Woolf model, I imported my own model and pointed the code towards it.
+
+Turning the temperature down all the way only yields 'e's, I wonder if this is because 'e' is the most common letter. I also think this because turning the temperature all the way up yields more uncommon characters such as less standard punctuation or capitalized words mimicking proper nouns.
+
+Low Temp
+![Low Temp](https://i.imgur.com/eObbQlK.png)
+
+High Temp
+![High Temp](https://i.imgur.com/BTi9vPW.png)
+
+This is pretty subjective, but it seemed like the text got less coherent the longer the generation went on on the high temperature. I assume this may be a result/limitation of LSTM learning.
