@@ -32,4 +32,4 @@ Low Temp
 High Temp
 ![High Temp](https://i.imgur.com/BTi9vPW.png)
 
-This is pretty subjective, but it seemed like the text got less coherent the longer the generation went on on the high temperature. I assume this may be a result/limitation of LSTM learning.
+Also, this is pretty subjective, but it seemed like the text got less coherent the longer the generation went on on the high temperature. I assume this may be a result/limitation of LSTM learning.
