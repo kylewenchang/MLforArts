@@ -9,6 +9,9 @@ The interface would either be a chatbot style thing where the user types a word 
 
 With machine learning models, it's input to output, but I think by making the "output" a larger story, it allows the user to continously add input and influence future text generation.
 
+![CharRNN Training](https://i.imgur.com/moo827X.png)
+CharRNN Training from a Previous Project
+
 ## Inspiration
 I like playing one word story.
 
@@ -16,13 +19,14 @@ However, sometimes it's hard to keep it going or introduce real action/story wit
 
 I also think that text generation is facinating. I think about the saying about if monkeys could type; computers can sometimes be smarter than monkeys. We learn to tell based on stories we've heard the past, by picking up on patterns in them, and the fact that machine learning algorithms can do this in form is compelling to me.
 
-
-osiajdfioajsiodfasdjoifajsiogehahsiofaA
-ADD VISUAL REFERENCE
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
 ## Audience
 This project is for myself, people who want to play one word story as a game, a creative exercise, or just people who are curious about what their writing and a machine learning algorithm can form. They would either enter text into a box and press enter to add it to the story, or type in a text box with the story in it, and have their typing disabled after they hit space, while the computer is typing.
 
+![Two Possible Interface Designs](https://imgur.com/kiRzUgi.png)
+Two Possible Interface Designs
+
 ## Challenges
 Given that this is somewhat of an extension of [Assignment 7,](https://github.com/kylewenchang/MLforArts/blob/main/Assignment7.md) where I used CharRNN for text generation based on Moby Dick, I hope that I don't face too many backend technical challenges. However, I would like to train the algorithm in a way that doesn't show too strong of an influence from any one story. Hopefully training on a variety of different styles makes the algorithm adaptable to multiple different styles rather than making the output messier. I also have no clue whether or not the algorithm and user would be able to output anything cohesive.
+
+![Assignment 7](https://camo.githubusercontent.com/ce3f14888c73f4964dac3e290e9dda047a45ef9a5c54e7308fa737fb9257f2f8/68747470733a2f2f692e696d6775722e636f6d2f654f6262516c4b2e706e67)
+Interface from Assignment 7
