@@ -22,4 +22,7 @@ ADD VISUAL REFERENCE
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 ## Audience
-This project is for myself, people who want to play one word story as a game, a creative exercise, or just people who are curious about what their writing and a machin learning algorithm can form.
+This project is for myself, people who want to play one word story as a game, a creative exercise, or just people who are curious about what their writing and a machine learning algorithm can form. They would either enter text into a box and press enter to add it to the story, or type in a text box with the story in it, and have their typing disabled after they hit space, while the computer is typing.
+
+## Challenges
+I would like to train the algorithm in a way that doesn't show too strong of an influence from any one story. Hopefully training on a variety of different styles makes the algorithm adaptable to multiple different styles rather than making the output messier. Given that this is somewhat of an extension of [Assignment 7,](https://github.com/kylewenchang/MLforArts/blob/main/Assignment7.md) where I used CharRNN for text generation, 
