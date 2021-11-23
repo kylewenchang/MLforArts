@@ -17,7 +17,7 @@ I like playing one word story.
 
 However, sometimes it's hard to keep it going or introduce real action/story without a driving force behind it. It can be really fun when playing in a group where some people can carry things forward, but I'm not one of those people. (Machine learning is one of those people!)
 
-I was also inspired by a previous project where we used CharRNN and I generated text based on Moby Dick. I think that text generation is facinating. We learn to tell based on stories we've heard the past, by picking up on patterns in them, and the fact that machine learning algorithms can do this in form is compelling to me.
+I was also inspired by a previous project where we used CharRNN and I generated text based on Moby Dick. I think that text generation is facinating. We learn to tell based on stories we've heard the past, by picking up on patterns in them, and the fact that machine learning algorithms can do this in a sense is compelling to me.
 
 ## Audience
 This project is for myself, people who want to play one word story as a game, a creative exercise, or just people who are curious about what their writing and a machine learning algorithm can form. They would either enter text into a box and press enter to add it to the story, or type in a text box with the story in it, and have their typing disabled after they hit space, while the computer is typing.
