@@ -28,5 +28,5 @@ Two Possible Interface Designs
 ## Challenges
 Given that this is somewhat of an extension of [Assignment 7,](https://github.com/kylewenchang/MLforArts/blob/main/Assignment7.md) where I used CharRNN for text generation based on Moby Dick, I hope that I don't face too many backend technical challenges. However, I would like to train the algorithm in a way that doesn't show too strong of an influence from any one story. Hopefully training on a variety of different styles makes the algorithm adaptable to multiple different styles rather than making the output messier. I also have no clue whether or not the algorithm and user would be able to output anything cohesive.
 
-![Assignment 7](https://camo.githubusercontent.com/ce3f14888c73f4964dac3e290e9dda047a45ef9a5c54e7308fa737fb9257f2f8/68747470733a2f2f692e696d6775722e636f6d2f654f6262516c4b2e706e67)
+![Assignment 7](https://i.imgur.com/BTi9vPW.png)
 Interface from Assignment 7
