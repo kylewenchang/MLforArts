@@ -7,7 +7,7 @@ Using text generation with CharRNN, I want to make a game that lets the user pla
 
 The interface would either be a chatbot style thing where the user types a word in a text bot and "sends" it to the story block of text, or just a continuous block of text that the user types in before the computer takes over and types a word when the user hits space. The computer would generate one character at a time until it generates a space; I also think this would be cool in terms of interface because it would be giving the bot a "typing" effect. It would be cool to add buttons to share the story (downloading, copying to clipboard, etc). It would either take place in a web interface or a p5 sketch.
 
-With machine learning models, it's input to output, but I think by making the "output" a larger story, it allows the user to continously add input and influence future text generation.
+With machine learning models, it's usually the user giving an input, and getting an outut output, but I think by making the "output" a larger story, it allows the user to continously add input and influence future text generation.
 
 ![CharRNN Training](https://i.imgur.com/moo827X.png)
 CharRNN Training from a Previous Project
