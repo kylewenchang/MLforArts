@@ -26,9 +26,9 @@ The userTyping function checks if the last character typed was a space, and if s
 
 Another important part of the project was to reformat the example code's inteface to fit my project more. Although it still resembles the example project in terms of style, I think the changes I made to the interface make it better suited for what I was trying to do.
 
-Old Interface            |  New Interface
+Old Interface | New Interface
 :-------------------------:|:-------------------------:
-![Old Interface](https://imgur.com/ZXzkPJp.png)  |  ![New Interface](https://imgur.com/VOs1kAa.png)
+![Old Interface](https://imgur.com/ZXzkPJp.png)|![New Interface](https://imgur.com/VOs1kAa.png)
 
 Up until this point I had been using the CharRNN model trained on Moby Dick, but I trained a new CharRNN model on Alice's Adventures in Wonderland, The Wonderful Wizard of Oz, and Hans Christian Andersen's Fairy tales from the Gutenberg library in Google Colab. I hoped that by using a variety of stories, and the fact that the model uses Long Short Term Memory, would mean that not too much of the original stories would come through to the text generation algorithm, mostly just the vocabulary.
 
@@ -44,3 +44,5 @@ Watching people interact with the project allowed me to see which generation tem
 
 ## Next Steps
 With more time, I would have wanted to implement share buttons so people could share their results on social media, maybe try a new model, and also work on the user experience with different styling and more clear instructions.
+
+The entire project [can be found here!](https://github.com/kylewenchang/MLforArts/tree/main/LongShortTermStory){:target="_blank"}
