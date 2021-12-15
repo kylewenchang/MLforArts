@@ -2,10 +2,9 @@
 
 Long Short Term Story is a web app where the user is able to write a story with a text generation algorithm, one word at a time.
 
-## Description
-Using ml5's implementation of CharRNN, Long Short Term Story allows the user to 
+Using ml5's implementation of CharRNN, a text generation algorithm which writes text based on example text, Long Short Term Story allows the user to type in a text box. Then upon hitting space, the model types a word, which allows the user to type. The goal is to be able to write a story with the model.
 
-The entire project [can be found here!](https://github.com/kylewenchang/MLforArts/tree/main/LongShortTermStory) I had issues when opening index.html directy in Chrome, [this is why.](https://stackoverflow.com/questions/10752055/cross-origin-requests-are-only-supported-for-http-error-when-loading-a-local) To work around this, I just opened the whole folder in Visual Studio and ran the code from there.
+The entire project folder [can be found here!](https://github.com/kylewenchang/MLforArts/tree/main/LongShortTermStory) I had issues when opening index.html directy in Chrome; [this is why.](https://stackoverflow.com/questions/10752055/cross-origin-requests-are-only-supported-for-http-error-when-loading-a-local) To work around this, I just opened the whole folder in Visual Studio and ran the code from there.
 
 ## Inspiration
 My main inspiration for this project was the game One Word Story, which functions in a similar way. Players sit in a circle, creating a story by going around the circle and each saying a word at a time. I was also inspired by a previous project where we used CharRNN (that project was based on the [ml5 CharRNN Stateful](https://github.com/ml5js/ml5-library/tree/main/examples/javascript/CharRNN/CharRNN_Text_Stateful) example project) and I generated text based on Moby Dick, and just the possibilities of text generation in general. We learn to tell based on stories we've heard the past, by picking up on patterns in them, and the fact that machine learning algorithms can do this in a sense is compelling to me.
