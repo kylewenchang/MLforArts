@@ -5,8 +5,10 @@ Long Short Term Story is a web app where the user is able to write a story with 
 ## Description
 Using ml5's implementation of CharRNN, Long Short Term Story allows the user to 
 
+The entire project [can be found here!](https://github.com/kylewenchang/MLforArts/tree/main/LongShortTermStory) I had issues when opening index.html directy in Chrome, [this is why.](https://stackoverflow.com/questions/10752055/cross-origin-requests-are-only-supported-for-http-error-when-loading-a-local) To work around this, I just opened the whole folder in Visual Studio and ran the code from there.
+
 ## Inspiration
-My main inspiration for this project was the game One Word Story, which functions in a similar way. Players sit in a circle, creating a story by going around the circle and each saying a word at a time. I was also inspired by a previous project where we used CharRNN and I generated text based on Moby Dick, and just the possibilities of text generation in general. We learn to tell based on stories we've heard the past, by picking up on patterns in them, and the fact that machine learning algorithms can do this in a sense is compelling to me.
+My main inspiration for this project was the game One Word Story, which functions in a similar way. Players sit in a circle, creating a story by going around the circle and each saying a word at a time. I was also inspired by a previous project where we used CharRNN (that project was based on the [ml5 CharRNN Stateful](https://github.com/ml5js/ml5-library/tree/main/examples/javascript/CharRNN/CharRNN_Text_Stateful) example project) and I generated text based on Moby Dick, and just the possibilities of text generation in general. We learn to tell based on stories we've heard the past, by picking up on patterns in them, and the fact that machine learning algorithms can do this in a sense is compelling to me.
 
 The fluidity of the interaction with the user and model typing into the same text box was meant to feel almost as if the user and model were typing in the same Google doc.
 
@@ -44,5 +46,3 @@ Watching people interact with the project allowed me to see which generation tem
 
 ## Next Steps
 With more time, I would have wanted to implement share buttons so people could share their results on social media, maybe try a new model, and also work on the user experience with different styling and more clear instructions.
-
-The entire project [can be found here!](https://github.com/kylewenchang/MLforArts/tree/main/LongShortTermStory){:target="_blank"}
