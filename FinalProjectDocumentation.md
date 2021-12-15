@@ -45,4 +45,4 @@ Watching people interact with the project allowed me to see which generation tem
 ## Next Steps
 With more time, I would have wanted to implement share buttons so people could share their results on social media, maybe try a new model, and also work on the user experience with different styling and more clear instructions.
 
-The entire project [can be found here!](https://github.com/kylewenchang/MLforArts/tree/main/LongShortTermStory){:target="_blank"}
+The entire project [can be found here!](https://github.com/kylewenchang/MLforArts/tree/main/LongShortTermStory{:target="_blank"})
