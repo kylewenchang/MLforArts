@@ -40,3 +40,7 @@ In order to clean up the training data, I moved the text from the all three stor
 This project is for myself, people who want to play one word story as a game, a creative exercise, or just people who are curious about what their writing and a machine learning algorithm can form. Because the results of the text generation are not really sensible, I don't imagine actual writers using this for inspiration. To me, the main appeal of the project comes though the interactivity and the fluidity, which gives the user the sense that they really are writing with another entity, however incompentent it may be. Because of this, I think its ideal form would be a finished web app as one of those "machine learning experiment web apps" for fun.
 
 ## User Testing
+Watching people interact with the project allowed me to see which generation temperature worked best. Also, it became more clear to me that the allure of the project was more curiosity and surprise at the result than a readable story. I also noticed that after typing a word, a lot of people hit "enter" to make something happen, which I tried to clarify in the placeholder text/instructions.
+
+## Next Steps
+With more time, I would have wanted to implement share buttons so people could share their results on social media, maybe try a new model, and also work on the user experience with different styling and more clear instructions.
