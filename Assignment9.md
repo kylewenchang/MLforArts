@@ -11,4 +11,6 @@ I pulled 596 images from multiple albums, deleting photos such as drawings of th
 
 The model trained for 1936 steps before I ran out of Runway credits, which is also why I was unable to host the model for the Glitch interface. I would have wanted to have a page that generated a new random botanical drawing on refresh.
 
-[Here is the video of the latent space walk!](https://youtu.be/RQi2Z3FbSJs)
+### Here is the video of the latent space walk!
+
+![Latent Space Walk GIF](https://i.giphy.com/media/hcDnat4WXtNabWoCax/giphy-downsized-medium.gif)
